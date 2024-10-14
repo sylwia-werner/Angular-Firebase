@@ -1,6 +1,7 @@
 # Expense Management Application
 
-This is a simple Expense Management application built with Angular and Firebase Realtime Database. The application allows users to perform CRUD (Create, Read, Update, Delete) operations to manage their expenses.
+This is a simple Expense Management application built with Angular and Firebase Realtime Database for the purposes of my studies.
+The application allows users to perform CRUD (Create, Read, Update, Delete) operations to manage their expenses.
 
 ## Table of Contents
 
